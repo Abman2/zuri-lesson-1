@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-function get{return new Date().getTime()}
+function get(){return new Date().getTime()}
  
 setInterval(() => { const time = get();
     document.getElementById("currentUTCTime").textContent= time;

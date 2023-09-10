@@ -51,7 +51,7 @@ img{
         main{
             display: flex;
             flex-direction: column-reverse;
-            height: fit-content;
+            height: 80vh;
             align-items: center;
             justify-content: center;
 
